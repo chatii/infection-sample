@@ -1,0 +1,19 @@
+{
+    "name": "chatii/infection-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Chatii\\InfectionTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chatii"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "infection/extension-installer": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "config": {
+    "allow-plugins": {
+      "infection/extension-installer": true
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^9.5",
+    "infection/infection": "^0.26"
+  }
+}
